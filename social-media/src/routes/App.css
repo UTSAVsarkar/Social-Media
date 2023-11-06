@@ -33,3 +33,11 @@
   height: 50px;
   margin-top: -50px;
 }
+
+.welcome-message{
+  margin: 100px 0;
+}
+
+.spinner{
+  margin: 10% 0;
+}
